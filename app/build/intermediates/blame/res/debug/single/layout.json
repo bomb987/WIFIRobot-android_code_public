@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\projection\\androidprojection\\androidstuido\\WIFIRobot-android_code_public1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pictureshow.xml",
+        "source": "F:\\projection\\androidprojection\\androidstuido\\WIFIRobot-android_code_public1\\app\\src\\main\\res\\layout\\pictureshow.xml"
+    },
+    {
+        "merged": "F:\\projection\\androidprojection\\androidstuido\\WIFIRobot-android_code_public1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mymainfrm.xml",
+        "source": "F:\\projection\\androidprojection\\androidstuido\\WIFIRobot-android_code_public1\\app\\src\\main\\res\\layout\\mymainfrm.xml"
+    },
+    {
+        "merged": "F:\\projection\\androidprojection\\androidstuido\\WIFIRobot-android_code_public1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myvideo.xml",
+        "source": "F:\\projection\\androidprojection\\androidstuido\\WIFIRobot-android_code_public1\\app\\src\\main\\res\\layout\\myvideo.xml"
+    }
+]
